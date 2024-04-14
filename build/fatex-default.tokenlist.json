@@ -1,6 +1,6 @@
 {
   "name": "FATEx Default",
-  "timestamp": "2024-04-14T05:06:12.129Z",
+  "timestamp": "2024-04-14T07:32:08.742Z",
   "version": {
     "major": 12,
     "minor": 1,
@@ -252,30 +252,6 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x4853365bC81f8270D902076892e13F27c27e7266",
-      "symbol": "FATE",
-      "name": "FATExFI Token",
-      "decimals": 18,
-      "logoURI": "https://fatex.io/fatex-token-logo.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-      "symbol": "WMATIC",
-      "name": "Wrapped Matic",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png?1624446912"
-    },
-    {
-      "chainId": 137,
-      "address": "0x56BE76031A4614370fA1f188e01e18a1CF16E642",
-      "symbol": "xFATE",
-      "name": "xFATExFI Token",
-      "decimals": 18,
-      "logoURI": "https://fatex.io/fatex-token-logo.png"
     },
     {
       "chainId": 1666600000,
